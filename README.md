@@ -7,4 +7,9 @@
   <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
 </div><br>
 
-![image](https://github.com/user-attachments/assets/5c603b4a-fb79-4c5a-89bb-00cb7dab1fd3)
+<div align="center">
+
+![clideo_editor_8ddf125de43f4adaad797b96333c8e99](https://github.com/user-attachments/assets/9b781dfc-eb52-4794-9e12-30a912365514)
+
+</div>
+
